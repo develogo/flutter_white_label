@@ -1,1 +1,1 @@
-const APP_HEADER = "Project1";
+const APP_HEADER = "Project2";
